@@ -76,8 +76,9 @@ footer {
   </section>  <section id="contact">
     <h2>Contact Me</h2>
     <p>Email: prabhatkumaryt@example.com</p>
-    <p>Instagram: @prabhatkumarvlog</p>
-  </section>  <footer>
+    <p>Instagram: @https://www.instagram.com/prabhat_kumar_0_5?igsh=ZHFxMTNwbHgzYzc3</p>
+  </section>  <footer> 
+    
     &copy; 2025 Prabhat Kumar Vlog. All rights reserved.
   </footer>
 </body></html>
